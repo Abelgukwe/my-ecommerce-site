@@ -7,8 +7,8 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Gukwe Gadgets</h1>
+            <p>Gukwe Gadgets Store is a leading retail destination for high-quality electronic devices and accessories. With a wide range of options including smartphones, tablets, laptops, smartwatches, headphones, and more, the store caters to the needs of tech enthusiasts. Offering excellent customer service and a diverse selection of products, Gukwe Gadgets Store strives to create a seamless and enjoyable shopping experience for customers seeking the latest and most innovative gadgets.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -44,9 +44,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>306 Goromonzi New Stands </li>
+              <li>Email: abelgukwe@gmail.com</li>
+              <li>Phone: +263 777 603 657</li>
             </ul>
           </div>
         </div>
